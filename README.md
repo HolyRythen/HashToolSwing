@@ -27,7 +27,7 @@ Perfekt für Entwickler, Admins oder für GitHub‑Projekte als nützliches Util
 ## ⚙️ Installation & Start
 
 1. Lege die Datei **`HashToolSwing.java`** in einen Ordner, z. B.:  
-   `C:\Users\RobertMartin\Desktop\java-programms\hash-tool`
+   `C:\Users\user\Desktop\java-programms\hash-tool`
 
 2. Öffne **PowerShell oder CMD** in diesem Ordner
 
